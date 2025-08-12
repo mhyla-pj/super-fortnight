@@ -4,3 +4,6 @@ b = 20
 def test (a, b):
     if a > b:
         print(a+b)
+
+test(5, 10)
+test(15, 10)
