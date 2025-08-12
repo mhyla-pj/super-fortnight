@@ -11,3 +11,5 @@ def jajco():
 
 test(5, 10)
 test(15, 10)
+
+jajco()
